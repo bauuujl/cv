@@ -1,5 +1,5 @@
 section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
-education,TRUE,Master of Public Policy,Arizona State University School of Public Affairs,"Phoenix, AZ",2025,Expected 2027,"Coursework in program evaluation, public finance, and science and technology policy","Applied econometrics in R: fixed effects, DiD, IV/2SLS, interrupted time series",NA
+education,TRUE,Master of Public Policy,Arizona State University School of Public Affairs,"Phoenix, AZ",2025,Expected 2027,,,NA
 education,TRUE,"B.S., Economics and B.S., Business",ASU W. P. Carey School of Business,"Tempe, AZ",2020,2024,NA,NA,NA
 industry_positions,TRUE,Data Analyst,Desert Mountain Community Foundation,Arizona,2026,Current,"Built a donor management database in Excel covering 600+ donors and 1,000+ transactions",Maintain donor and gift records and produce reporting for foundation leadership,"Achieved an 88% open rate with a bounce rate under 1% and 0.6% unsubscribe rate; 77% of donors who opened
 registered for the year's first scholarship fundraiser"
